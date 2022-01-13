@@ -11,7 +11,7 @@ while (Menu)
 {
     int decision = -1;
 
-    Console.WriteLine("=== BIENVENIDO A PINGüINo lindos ==========");
+    Console.WriteLine("=== BIENVENIDO Papu Lindo ==========");
     Console.WriteLine("1. Crear pingüino");
     Console.WriteLine("2. Modificar pingüino");
     Console.WriteLine("3. Eliminar pingüino");
